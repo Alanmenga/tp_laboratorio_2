@@ -1,0 +1,6 @@
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb

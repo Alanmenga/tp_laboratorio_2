@@ -1,0 +1,16 @@
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Consola\bin\Debug\Consola.exe.config
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Consola\bin\Debug\Consola.exe
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Consola\bin\Debug\Consola.pdb
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Consola\bin\Debug\Clases Abstractas.dll
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Consola\bin\Debug\Entidades.dll
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Consola\bin\Debug\Excepciones.dll
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Consola\bin\Debug\Archivos.dll
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Consola\bin\Debug\Clases Abstractas.pdb
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Consola\bin\Debug\Entidades.pdb
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Consola\bin\Debug\Excepciones.pdb
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Consola\bin\Debug\Archivos.pdb
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Consola\obj\Debug\Consola.exe
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Consola\obj\Debug\Consola.pdb

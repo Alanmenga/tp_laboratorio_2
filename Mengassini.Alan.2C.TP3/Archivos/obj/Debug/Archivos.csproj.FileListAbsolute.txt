@@ -1,0 +1,9 @@
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Archivos\obj\Debug\Archivos.pdb

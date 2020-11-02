@@ -1,0 +1,2 @@
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sistemas\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.TP3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
