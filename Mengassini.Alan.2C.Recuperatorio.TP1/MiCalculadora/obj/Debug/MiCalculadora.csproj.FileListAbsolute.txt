@@ -1,0 +1,39 @@
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\Tps\Tp_1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\Tps\Tp_1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\Tps\Tp_1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\Tps\Tp_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\Tps\Tp_1\WindowsFormsApp1\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\Tps\Tp_1\WindowsFormsApp1\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\Tps\Tp_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\Tps\Tp_1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\Tps\Tp_1\WindowsFormsApp1\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\Tps\Tp_1\WindowsFormsApp1\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\Tps\Tp_1\WindowsFormsApp1\bin\Debug\Entidades.dll
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\Tps\Tp_1\WindowsFormsApp1\bin\Debug\Entidades.pdb
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\Tps\Tp_1\WindowsFormsApp1\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Tp_1\MiCalculadora\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Tp_1\MiCalculadora\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Tp_1\MiCalculadora\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Tp_1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Tp_1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Tp_1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Tp_1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Tp_1\MiCalculadora\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Tp_1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Tp_1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Tp_1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Tp_1\MiCalculadora\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\tp_laboratorio_2\Tp_1\MiCalculadora\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sist\2docuat\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.Recuperatorio.TP1\MiCalculadora\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sist\2docuat\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.Recuperatorio.TP1\MiCalculadora\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sist\2docuat\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.Recuperatorio.TP1\MiCalculadora\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sist\2docuat\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.Recuperatorio.TP1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sist\2docuat\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.Recuperatorio.TP1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sist\2docuat\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.Recuperatorio.TP1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sist\2docuat\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.Recuperatorio.TP1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sist\2docuat\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.Recuperatorio.TP1\MiCalculadora\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sist\2docuat\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.Recuperatorio.TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sist\2docuat\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.Recuperatorio.TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sist\2docuat\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.Recuperatorio.TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sist\2docuat\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.Recuperatorio.TP1\MiCalculadora\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sist\2docuat\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.Recuperatorio.TP1\MiCalculadora\obj\Debug\WindowsFormsApp1.pdb

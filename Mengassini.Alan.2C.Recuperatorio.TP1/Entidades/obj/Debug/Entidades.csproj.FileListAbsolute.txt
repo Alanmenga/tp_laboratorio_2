@@ -1,0 +1,12 @@
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\Tps\Tp_1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\Tps\Tp_1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\Tps\Tp_1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\Tps\Tp_1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\Tps\Tp_1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Alan\Desktop\AlanProgra\2do cuatrimestre\Labo-Progra 2\Tps\Tp_1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sist\2docuat\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.Recuperatorio.TP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sist\2docuat\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.Recuperatorio.TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sist\2docuat\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.Recuperatorio.TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sist\2docuat\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.Recuperatorio.TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sist\2docuat\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.Recuperatorio.TP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Alan\Desktop\AlanProgra\Facu-Sist\2docuat\Labo-Progra 2\tp_laboratorio_2\Mengassini.Alan.2C.Recuperatorio.TP1\Entidades\obj\Debug\Entidades.pdb

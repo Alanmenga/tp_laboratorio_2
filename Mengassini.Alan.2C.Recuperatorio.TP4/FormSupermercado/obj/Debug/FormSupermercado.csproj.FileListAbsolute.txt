@@ -1,0 +1,13 @@
+D:\Alan\Mengassini.Alan.2C.TP4\FormSupermercado\obj\Debug\FormSupermercado.csprojAssemblyReference.cache
+D:\Alan\Mengassini.Alan.2C.TP4\FormSupermercado\obj\Debug\FormSupermercado.Properties.Resources.resources
+D:\Alan\Mengassini.Alan.2C.TP4\FormSupermercado\obj\Debug\FormSupermercado.SupermercadoForm.resources
+D:\Alan\Mengassini.Alan.2C.TP4\FormSupermercado\obj\Debug\FormSupermercado.csproj.GenerateResource.cache
+D:\Alan\Mengassini.Alan.2C.TP4\FormSupermercado\obj\Debug\FormSupermercado.csproj.CoreCompileInputs.cache
+D:\Alan\Mengassini.Alan.2C.TP4\FormSupermercado\bin\Debug\FormSupermercado.exe.config
+D:\Alan\Mengassini.Alan.2C.TP4\FormSupermercado\bin\Debug\FormSupermercado.exe
+D:\Alan\Mengassini.Alan.2C.TP4\FormSupermercado\bin\Debug\FormSupermercado.pdb
+D:\Alan\Mengassini.Alan.2C.TP4\FormSupermercado\bin\Debug\Entidades.dll
+D:\Alan\Mengassini.Alan.2C.TP4\FormSupermercado\bin\Debug\Entidades.pdb
+D:\Alan\Mengassini.Alan.2C.TP4\FormSupermercado\obj\Debug\FormSupermercado.csproj.CopyComplete
+D:\Alan\Mengassini.Alan.2C.TP4\FormSupermercado\obj\Debug\FormSupermercado.exe
+D:\Alan\Mengassini.Alan.2C.TP4\FormSupermercado\obj\Debug\FormSupermercado.pdb

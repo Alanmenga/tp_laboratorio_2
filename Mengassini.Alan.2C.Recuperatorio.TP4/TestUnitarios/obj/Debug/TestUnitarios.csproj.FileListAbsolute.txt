@@ -1,0 +1,16 @@
+D:\Alan\Mengassini.Alan.2C.TP4\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Alan\Mengassini.Alan.2C.TP4\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Alan\Mengassini.Alan.2C.TP4\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Alan\Mengassini.Alan.2C.TP4\TestUnitarios\bin\Debug\TestUnitarios.dll
+D:\Alan\Mengassini.Alan.2C.TP4\TestUnitarios\bin\Debug\TestUnitarios.pdb
+D:\Alan\Mengassini.Alan.2C.TP4\TestUnitarios\bin\Debug\Entidades.dll
+D:\Alan\Mengassini.Alan.2C.TP4\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Alan\Mengassini.Alan.2C.TP4\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Alan\Mengassini.Alan.2C.TP4\TestUnitarios\bin\Debug\Entidades.pdb
+D:\Alan\Mengassini.Alan.2C.TP4\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Alan\Mengassini.Alan.2C.TP4\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Alan\Mengassini.Alan.2C.TP4\TestUnitarios\obj\Debug\TestUnitarios.csprojAssemblyReference.cache
+D:\Alan\Mengassini.Alan.2C.TP4\TestUnitarios\obj\Debug\TestUnitarios.csproj.CoreCompileInputs.cache
+D:\Alan\Mengassini.Alan.2C.TP4\TestUnitarios\obj\Debug\TestUnitarios.csproj.CopyComplete
+D:\Alan\Mengassini.Alan.2C.TP4\TestUnitarios\obj\Debug\TestUnitarios.dll
+D:\Alan\Mengassini.Alan.2C.TP4\TestUnitarios\obj\Debug\TestUnitarios.pdb
